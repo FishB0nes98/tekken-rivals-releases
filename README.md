@@ -1,11 +1,13 @@
 # TEKKEN Rivals
 
-[Download TEKKEN Rivals for Windows](https://github.com/FishB0nes98/tekken-rivals-releases/releases/latest/download/TEKKEN-Rivals-Windows.zip) · [Release notes](https://github.com/FishB0nes98/tekken-rivals-releases/releases/latest)
+Downloads are paused while the project moves to a build-from-your-own-discs setup. The previous packaged releases have been unpublished.
 
-Extract the entire ZIP into a writable folder and open **TEKKEN Rivals.exe**. Keep its `bin` folder alongside it. Requires Windows 10/11 64-bit, .NET Framework 4.8, and an internet connection at startup.
+The replacement installer is not available yet. It will require all three supported original US PS2 disc images:
 
-The launcher checks for updates before login, installs changed files automatically, and preserves your saves. Choose **Sign in**, **Register**, or **Play as Guest** when starting without a saved session.
+- Tekken Tag Tournament, revision 2.00 (SLUS-20001)
+- Tekken 4 (SLUS-20328)
+- Tekken 5 (SLUS-21059)
 
-Online battles use direct P2P/STUN connections. Opponents can see your public IP address and may receive local network addresses. Some networks cannot connect; no relay is enabled. Review the in-game connection notice before playing online.
+The intended release will contain the project code and conversion tools, with game assets built locally from the supplied discs. ROMs and pre-extracted game assets will not be included in that download.
 
-This repository contains packaged Windows downloads, updater files, and release notes. Development tools, tests, source projects, credentials, and personal saves are excluded. The game includes the runtime assets it needs to play.
+Existing save files should be kept. There is no replacement download or release date to announce yet.
